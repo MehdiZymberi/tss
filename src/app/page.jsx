@@ -175,7 +175,7 @@ function Services() {
 
 export const metadata = {
   description:
-    'We are a development studio working at the intersection of design and technology.',
+  'Bij The Strength Society bieden we exclusieve coachingervaringen gebaseerd op expertise uit de topsport, wetenschappelijke inzichten, en persoonlijke begeleiding.',
 }
 
 export default async function Home() {

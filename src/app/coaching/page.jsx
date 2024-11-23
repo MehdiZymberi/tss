@@ -9,9 +9,9 @@ import { PageIntro } from '@/components/PageIntro'
 import { SectionIntro } from '@/components/SectionIntro'
 import { StylizedImage } from '@/components/StylizedImage'
 import { TagList, TagListItem } from '@/components/TagList'
-import goals  from '@/images/coaching/goals.jpg'
-import uitvoeren  from '@/images/coaching/uitvoeren.jpg'
-import tssProgram from '@/images/coaching/ProgramTss.svg'
+import goals  from '../../../public/goals.jpg'
+import uitvoeren  from '../../../public/uitvoeren.jpg'
+import tssProgram from '../../../public/ProgramTss.svg'
 
 function Section({ title, image, children }) {
   return (

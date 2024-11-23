@@ -11,9 +11,7 @@ import { StylizedImage } from '@/components/StylizedImage'
 import { TagList, TagListItem } from '@/components/TagList'
 import goals from '../../../public/goals.jpg'
 import uitvoeren from '../../../public/uitvoeren.jpg'
-import imageLaptop from '@/images/laptop.jpg'
-import imageMeeting from '@/images/meeting.jpg'
-import imageWhiteboard from '@/images/whiteboard.jpg'
+
 
 function Section({ title, image, children }) {
   return (

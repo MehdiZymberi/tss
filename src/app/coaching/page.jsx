@@ -11,7 +11,7 @@ import { StylizedImage } from '@/components/StylizedImage'
 import { TagList, TagListItem } from '@/components/TagList'
 import goals  from '../../../public/goals.jpg'
 import uitvoeren  from '../../../public/uitvoeren.jpg'
-import tssProgram from '../../../public/ProgramTss.svg'
+import tssProgram from '../../../public/ProgramTSS.svg'
 
 function Section({ title, image, children }) {
   return (

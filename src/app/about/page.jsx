@@ -176,9 +176,9 @@ function Team() {
 }
 
 export const metadata = {
-  title: 'About Us',
+  title: 'Over ons',
   description:
-    'We believe that our strength lies in our collaborative approach, which puts our clients at the center of everything we do.',
+    '',
 }
 
 export default async function About() {

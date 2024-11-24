@@ -55,8 +55,7 @@ const navigation = [
   {
     title: 'Tools',
     links: [
-      { title: 'BPM Calculator', href: '/bpm-calculator' }, // Bereken je hartslagzones
-      { title: 'Kalorieën Calculator', href: '/kalorieen-calculator' }, // Voor dagelijkse caloriebehoefte
+
       { title: 'Workout Planner', href: '/workout-planner' }, // Personaliseer je trainingsschema
       { title: 'Mindfulness Timer', href: '/mindfulness-timer' }, // Timer voor meditatie en ademhalingsoefeningen
       { title: 'Voedingswaarde Checker', href: '/voedingswaarde-checker' }, // Analyseer voedingswaarden van maaltijden

@@ -153,9 +153,15 @@ export function Footer() {
           <Link href="/" aria-label="Home">
             {/* <Logo className="h-8" fillOnHover /> */}
           </Link>
-          <p className="text-sm text-neutral-700">
-            © Valitech. {new Date().getFullYear()}
-          </p>
+          <a 
+  href="https://vali-tech.nl" 
+  className="text-sm text-neutral-700 hover:underline" 
+  target="_blank" 
+  rel="noopener noreferrer"
+>
+  © Vali-Tech {new Date().getFullYear()}
+</a>
+
         </div>
       </FadeIn>
     </Container>

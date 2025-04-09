@@ -62,11 +62,7 @@ const team = [
         role: 'Co-Founder / CEO',
         image: { src: imageLeslieAlexander },
       },
-      {
-        name: 'Tanno de Pender',
-        role: 'Co-Founder / CTO',
-        image: { src: imageMichaelFoster },
-      },
+  
       {
         name: 'Dries Vincent',
         role: 'Partner & Business Relations',

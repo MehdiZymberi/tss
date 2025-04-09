@@ -187,7 +187,7 @@ export default async function Home() {
       <Container className="mt-24 sm:mt-32 md:mt-56">
         <FadeIn className="max-w-3xl">
           <h1 className="font-display text-5xl font-medium tracking-tight text-neutral-950 [text-wrap:balance] sm:text-7xl">
-            Streef naar meer, Ontdek je Potentieel - met The Streasdasdngth Society
+            Streef naar meer, Ontdek je Potentieel - met The Streasdasdngth Societyasdasdasd
           </h1>
           <p className="mt-6 text-lg text-neutral-600">
             Wij werken uitsluitend met mensen die gaan voor resultaat en
